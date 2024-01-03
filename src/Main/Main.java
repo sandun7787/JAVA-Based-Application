@@ -7,4 +7,6 @@ public class Main{
 		int z=x+y;
 		System.out.println(z);
 	}
+
+	public char[] x;
 }
